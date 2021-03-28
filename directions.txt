@@ -1,8 +1,0 @@
-Bob is over there
-Bob is at Home
-Bob went to the Store
-#Hi
-/*
-Hi
-*/
-where is Bob

@@ -1,0 +1,6 @@
+*.toml
+*.lock
+.replit
+
+*.txt
+*.out
