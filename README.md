@@ -1,5 +1,5 @@
 # Adventure/Voyage (Language)
-A programming written as a story.
+A programming language written as a story.
 
 
 ## Example
